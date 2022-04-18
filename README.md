@@ -1,10 +1,18 @@
-### Hi!!! I'm Tarun 👋
+### Hi!!! I'm Tarun :wave:
+
+
+### Masters in AI Student :man_student:
 
 
 
 
-- 🔭 I’m currently pursuing Masters in Artificial Intelligence
+
+
+
+- 🔭 Worked as Senior Analyst at Capgemini :spades:
 - 🌱 I’m currently learning Machine learning & Computer Vision
-- 📫 How to reach me:
-- https://www.linkedin.com/in/tarun-tatakuntala-43571b153/
+- 📫 Reach me:
+- [Linkedin](https://www.google.com)
+
+
 
